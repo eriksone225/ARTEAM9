@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.4.1">
+        <ModelTarget name="ESP8266" targetId="04db9f07c7a7459680045a238fd70b5c" version="14.0" toolVersion="v7.4.1" bbox="-0.0129821 -0.00873426 0.00188 0.0185179 0.00141074 0.06186" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="ESP8266" assemblyId="27f6a8c0e3244af39268f78d1f8c851d">
+        <Part name="ESP8266" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

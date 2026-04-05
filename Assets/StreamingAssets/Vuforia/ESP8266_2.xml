@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="ESP8266_2" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="ESP8266_2s_assembly" assemblyId="db2c7e2defb34d40ad8552c7871835aa">
+<Part name="ESP8266_2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.00306048 -0.0318832 0.0912512" rotation="AD: -1 -0.0045393 0.00459171 90.6588" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="0.013291 -0.0168641 0.118541" rotation="AD: 0.999975 0.0429191 -0.172596 207.514" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.00848316 0.00682222 0.0642444" rotation="AD: 0.476174 -0.895879 5.22519 181.757" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
